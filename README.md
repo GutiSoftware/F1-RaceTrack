@@ -19,6 +19,7 @@ F1-RaceTrack is a computer game that simulates and recreates the Racetrack game,
 
 For more detailed information, read the instruction files in PDF format.
 
+The launcher is the file: F1-RaceTrackEn.exe
 ____________________________________________________________________________________________________________
 
 F1-RaceTrack es un juego que utiliza la mecánica clásica (newtoniana) para simular una carrera de coches de F1.
@@ -36,3 +37,5 @@ Una buena descripción del juego original está disponible en: https://en.wikipe
 F1-RaceTrack es un juego para computadora que simula y recrea el juego Racetrack, con coches de Fórmula 1.
 
 Para obtener información más detallada, lea los archivos de instrucciones en formato PDF.
+
+Para lanzar el juega usar el fichero: F1-RaceTrackEs.exe
