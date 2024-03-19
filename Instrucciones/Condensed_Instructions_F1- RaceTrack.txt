@@ -1,0 +1,29 @@
+RACETRACK (mathematical racing game with vectors)
+
+When the game is launched, you can choose between 1 player or 2 players, and it will take place on a racetrack that you will choose from the available options.
+
+You will need to enter the nickname for each driver (max. 15 characters) when prompted by the game. If you choose 2 players, you can also play against the computer by naming the driver of the green car as Alonso or Amateur (a non-professional driver).
+
+To advance the car, you can select the intersection using the arrow keys on the keyboard and move to the selected intersection (the one blinking) with the ENTER key or by selecting it with the left mouse button and moving it with the right mouse button.
+
+If you have played on the chosen track before, there will be a record set for that track, displaying the nickname, date, and time of the achievement.
+
+If it's a single-player game, you will drive the red car. If you choose 2 players, you can use the [T] key (turn change) to decide who will start the race (red or green).
+
+If the track is circular (with continuity), you can change the number of laps for the race by pressing the [+ and -] keys, with a minimum of one (1) and a maximum of ninety-nine (99).
+
+If you want to adjust the music volume, you can do so using the [+ and -] keys while holding down the CTRL key.
+
+At any point during the game, pressing the [R] key (replay) will allow you to view the trajectories of the cars in the last race of the current game. If it's at the beginning of the game, the replay will show the race of auxiliary cars: Max Verstappen (purple car), the record holder if there is one (yellow car), and another car (green) that follows the shortest path in length to the finish line but not necessarily the optimal path (fewest moves). If it's a multi-lap race, the auxiliary cars will only be present in the first lap. If you press the SPACE key during a replay, it will be interrupted. The replay will automatically appear at the end of a race or if there is no activity at the beginning for 30 seconds. If it's the first race on a track and there is no activity for 30 seconds, it will enter demo mode (unless canceled with the SPACE key).
+
+Either player can exit the race by pressing the [A] key during their turn.
+
+Pressing the [Q] key (quit) will restart the race for both cars.
+
+Pressing the [D] key will enter (or exit) DEMO mode, where Carlos Sainz competes against Fernando Alonso. One way to temporarily pause a Demo is by right-clicking the mouse button, and to resume it, select one of the intersections of the car that has the turn. NOTE: If you have just made a maximum brake and want to enter DEMO mode, you should select the intersection you want to go to before activating it.
+
+You can also press the [F] key at any time to make the record car (if there is one) visible (or invisible), and it will act as a ghost car since it doesn't occupy a physical position.
+
+In the 2-player mode, you can also choose to play online.
+
+There is a blind game mode (blind) that can be activated and deactivated by pressing the [Ctrl] and [B] keys, which will only reveal the track when the total number of moves (both cars) is a multiple of 5."

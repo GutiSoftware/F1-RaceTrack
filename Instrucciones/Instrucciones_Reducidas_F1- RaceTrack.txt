@@ -1,0 +1,30 @@
+RACETRACK (juego matemático de carreras con vectores)
+
+Cuando se lanza el juego, se puede elegir entre 1 jugador, o 2 jugadores, y se desarrollará en una pista de carreras que eligiéremos de entre las disponibles.
+
+Se tendrá que ingresar cuando el juego lo solicite, el apodo del conductor de cada coche (max. 15 caracteres). Si se eligen 2 jugadores, se puede también jugar contra la máquina poniendo como nombre del conductor del coche azul: Alonso o Amateur (un conductor no profesional)
+
+Para avanzar el coche podemos seleccionar la intersección con las flechas del teclado y mover a la seleccionada (la que parpadea) con la tecla ENTER o bien con el botón izquierdo del ratón seleccionamos y movemos con el botón derecho.
+
+Si ya se ha jugado alguna vez en la pista elegida, habrá un récord establecido para esa pista, que mostrará el apodo, la fecha y la hora  del que lo logró.
+
+Si es un solo jugador se conduce el coche rojo, si se eligen 2 jugadores, con la tecla [T] (cambio de turno), se puede elegir el que empezará la carrera (rojo o azul). 
+
+Si la pista es circular (que tiene continuidad), podremos cambiar el número de vueltas para la carrera pulsando las teclas [+ y -] con un mínimo de una (1) y un máximo de (99)
+
+si queremos subir o bajar el volumen de la música, podemos hacerlo también con las teclas [+ y -] manteniendo pulsada al mismo tiempo la tecla CTRL
+
+En cualquier momento del juego, pulsando la tecla [R], (replay), se podrán ver las trayectorias de los coches en la última carrera del juego en curso, si es al inicio del juego, el replay mostrará la carrera de los coches auxiliares: Max Verstapen (coche morado) el del récord si lo hay (coche amarillo) y otro coche (verde) que seguirá la trayectoria más corta en longitud a la meta pero que no necesariamente será la optima (menos movimientos).  Si ha sido una carrera a varias vueltas, los coches auxiliares estarán solo presentes en la primera vuelta. Si se pulsa la tecla ESPACIO durante un replay, este se interrumpirá. El Replay saldrá automáticamente al final de una carrera, o si al inicio no hay ninguna actividad durante 30 segundos.
+Si es la primera carrera para una pista y no hay actividad durante 30 segundos entrará en modo demo (si no se cancela con la tecla ESPACIO). 
+
+Cualquiera de los jugadores, puede abandonar la carrera pulsando la tecla [A] durante su turno.
+
+Pulsando la tecla (Q) quit se reiniciará la carrera para ambos coches
+
+Pulsando la tecla [D] entraremos (o saldremos) del modo DEMO en el que compiten Carlos Sainz contra Fernando Alonso.Una forma de pausar momentaneamente una Demo, es pulsando el botón derecho del ratón, y para reanudarla seleccionar una de las intersecciones del coche que tiene el turno. NOTA: si acabamos de hacer una frenada máxima y queremos poner el modo DEMO deberíamos selecciona la intersección a la que queremos ir antes de activarlo. 
+
+También podemos pulsar la tecla [F] en cualquier momento, para hacer visible (o invisible) el coche del récord (si lo hay) que actuará como coche fantasma, ya que no ocupa una posición física.
+
+Eligiendo 2 jugadores, también se puede elegir juego Online.
+ 
+Existe una modalidad de juego a ciegas (blind) que se activa y desactiva pulsando las teclas [Ctrl] y [B] que solo mostrará la pista cuando el número de movimientos totales (ambos coches) sea múltiplo de 5
