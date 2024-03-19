@@ -18,3 +18,21 @@ https://en.wikipedia.org/wiki/Racetrack_(game)
 F1-RaceTrack is a computer game that simulates and recreates the Racetrack game, with Formula 1 cars.
 
 For more detailed information, read the instruction files in PDF format.
+
+____________________________________________________________________________________________________________
+
+F1-RaceTrack es un juego que utiliza la mecánica clásica (newtoniana) para simular una carrera de coches de F1.
+
+Martin Gardner, un comunicador científico famoso por sus acertijos matemáticos, describió el juego matemático RACETRACK en Scientific American a principios de los años 70 como un nuevo juego para el intelecto (no para la suerte) https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26
+
+Se jugaba en una hoja de papel cuadriculado con lápices de colores.
+
+En la hoja de papel cuadriculado, se dibujaba una pista de carreras, y cada jugador marcaba la ubicación inicial de su coche en la línea de salida dibujando un punto en la intersección de una cuadrícula. Cada coche tiene una velocidad horizontal y una velocidad vertical (al comienzo del juego, ambas velocidades son cero). Para simular la aceleración, frenado y cambios de dirección, en cada turno, cada jugador puede cambiar su velocidad horizontal por un máximo de una cuadrícula por turno, y de manera similar puede cambiar su velocidad vertical por un máximo de una cuadrícula por turno. El ganador es el primer jugador en cruzar con seguridad la línea de meta.
+
+El juego introdujo conceptos de velocidad, aceleración y componentes vectoriales.
+
+Una buena descripción del juego original está disponible en: https://en.wikipedia.org/wiki/Racetrack_(game)
+
+F1-RaceTrack es un juego para computadora que simula y recrea el juego Racetrack, con coches de Fórmula 1.
+
+Para obtener información más detallada, lea los archivos de instrucciones en formato PDF.
