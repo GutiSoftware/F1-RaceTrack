@@ -1,4 +1,4 @@
-![Logo](https://sourceforge.net/p/f1-racetrack/code/ci/main/tree/archivos/Graficos/Logo_F1RaceTrack1.jpg)
+![Logo](Graficos/Logo_F1RaceTrack1.jpg)
 # F1-RaceTrack
 F1-RaceTrack is a game that uses classic (Newtonian) mechanics to simulate an F1 car race.
 
