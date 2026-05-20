@@ -42,4 +42,4 @@ Para obtener información más detallada, lea los archivos de instrucciones en f
 
 Para lanzar el juega usar el fichero: F1-RaceTrackEs.exe
 
-Se puede descargar la última versión en un fichero zip en : https://sourceforge.net/projects/f1-racetrack/files/F1-RaceTrack.zip/download
+Se puede jugar la última versión en: https://f1-racetrack-game.duckdns.org/F1_Racetrack.html
