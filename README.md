@@ -21,8 +21,7 @@ For more detailed information, read the instruction files in PDF format.
 
 The launcher is the file: F1-RaceTrackEn.exe
 
-You can Download the latest version on a zip file at: https://sourceforge.net/projects/f1-racetrack/files/F1-RaceTrack.zip/download
-____________________________________________________________________________________________________________
+You can play the latest version at: https://f1-racetrack-game.duckdns.org/F1_Racetrack.html
 
 F1-RaceTrack es un juego que utiliza la mecánica clásica (newtoniana) para simular una carrera de coches de F1.
 
