@@ -102,9 +102,4 @@ More information:
 
 For more detailed information, read the instruction files in PDF format.
 
-### 🚀 Launcher
 
-Use:
-
-```text
-F1-RaceTrackEn.exenics.
