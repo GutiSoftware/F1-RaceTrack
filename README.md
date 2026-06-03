@@ -1,6 +1,9 @@
 ![Logo](Graficos/Logo_F1RaceTrack1.jpg)
-🇪🇸 Español
-🎮 Jugar Última Versión
+
+## 🇪🇸 Español
+
+### 🎮 Jugar Última Versión
+
 [https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
 
 🧠 Origen
