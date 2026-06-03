@@ -12,7 +12,9 @@ F1-RaceTrack es un juego que utiliza la mecánica clásica newtoniana para simul
 Martin Gardner, un comunicador científico famoso por sus acertijos matemáticos, describió el juego matemático RACETRACK en Scientific American a principios de los años 70 como un nuevo juego para el intelecto, no para la suerte.
 
 Referencia:
-Martin Gardner - Racetrack
+📚 Reference:  
+[Martin Gardner - Racetrack](https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26)
+
 
 📝 Juego Original
 El juego original se jugaba en una hoja de papel cuadriculado con lápices de colores.
@@ -35,10 +37,8 @@ Movimiento vectorial.
 El ganador es el primer jugador que cruza de forma segura la línea de meta.
 
 Una buena descripción del juego original está disponible en:
-Wikipedia - Racetrack game
 
-🏁 F1-RaceTrack
-F1-RaceTrack es un juego de ordenador que simula y recrea el juego clásico Racetrack con coches de Fórmula 1.
+[Wikipedia - Racetrack game](https://en.wikipedia.org/wiki/Racetrack_(game))
 
 📖 Instrucciones
 Para obtener información más detallada, lea los archivos de instrucciones en formato PDF.
@@ -51,53 +51,61 @@ Vectores	El movimiento horizontal y vertical se gestionan por separado.
 Estrategia	Ganar requiere planificar varios turnos por adelantado.
 Física	El juego utiliza mecánica clásica newtoniana.
 
+# 🏎️ F1-RaceTrack
+
+**F1-RaceTrack** is a computer game inspired by the classic mathematical game **Racetrack**, using **Newtonian mechanics** to simulate Formula 1 racing.
+
+> 🎮 **Play latest version:**  
+> [https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+
+---
+
 ## 🇬🇧 English
 
-### 🎮 Play Latest Version
+### 🧠 Origin
 
-[https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+**Racetrack** is a mathematical game based on speed, acceleration and vector movement.
 
-🧠 Origin
-F1-RaceTrack is a game that uses classic Newtonian mechanics to simulate a Formula 1 car race.
+Martin Gardner, the famous science communicator known for his mathematical puzzles, described **RACETRACK** in *Scientific American* in the early 1970s as a game for the intellect, not for luck.
 
-Martin Gardner, a science communicator famous for his mathematical puzzles, described the mathematical game RACETRACK in Scientific American in the early 1970s as a new game for the intellect, not for luck.
+📚 Reference:  
+[Martin Gardner - Racetrack](https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26)
 
-Reference:
-Martin Gardner - Racetrack
+### 📝 Original Game
 
-📝 Original Game
-The original game was played on a sheet of graph paper with colored pencils.
+The original game was played on a sheet of **graph paper** using colored pencils.
 
-A race track was drawn on the grid, and each player marked the initial position of their car at the starting line by drawing a point at a grid intersection.
+A race track was drawn on the grid, and each player marked the starting position of their car at the starting line.
 
 Each car has:
 
-Horizontal speed.
-Vertical speed.
-Initial speed of 0 in both directions.
-On each turn, each player can change their horizontal speed by a maximum of one grid unit, and can also change their vertical speed by a maximum of one grid unit.
+- Horizontal speed.
+- Vertical speed.
+- Initial speed of `0` in both directions.
 
-This simulates:
+On each turn, players can change their horizontal and vertical speed by at most **one grid unit**, simulating:
 
-Acceleration.
-Braking.
-Direction changes.
-Vector movement.
+- Acceleration.
+- Braking.
+- Direction changes.
+- Vector-based movement.
+
 The winner is the first player to safely cross the finish line.
 
-A good description of the original game is available at:
-Wikipedia - Racetrack game
+More information:  
+[Wikipedia - Racetrack game](https://en.wikipedia.org/wiki/Racetrack_(game))
 
-🏁 F1-RaceTrack
-F1-RaceTrack is a computer game that simulates and recreates the classic Racetrack game with Formula 1 cars.
+### 🏁 F1-RaceTrack
 
-📖 Instructions
+**F1-RaceTrack** recreates this classic mathematical game as a computer game with **Formula 1 cars**, keeping the original spirit of strategy, physics and vector movement.
+
+### 📖 Instructions
+
 For more detailed information, read the instruction files in PDF format.
 
-⚙️ Core Concepts
-Concept	Description
-Speed	The car keeps its movement from turn to turn.
-Acceleration	Speed changes gradually, one unit per axis.
-Vectors	Horizontal and vertical movement are handled separately.
-Strategy	Winning requires planning several turns ahead.
-Physics	The game uses classic Newtonian mechanics.
+### 🚀 Launcher
+
+Use:
+
+```text
+F1-RaceTrackEn.exenics.
