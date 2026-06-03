@@ -11,8 +11,7 @@ F1-RaceTrack es un juego que utiliza la mecánica clásica newtoniana para simul
 
 Martin Gardner, un comunicador científico famoso por sus acertijos matemáticos, describió el juego matemático RACETRACK en Scientific American a principios de los años 70 como un nuevo juego para el intelecto, no para la suerte.
 
-Referencia:
-📚 Reference:  
+📚 Referencia:
 [Martin Gardner - Racetrack](https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26)
 
 
