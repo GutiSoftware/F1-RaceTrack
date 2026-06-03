@@ -2,6 +2,7 @@
 🇪🇸 Español
 🎮 Jugar Última Versión
 [https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+
 🧠 Origen
 F1-RaceTrack es un juego que utiliza la mecánica clásica newtoniana para simular una carrera de coches de Fórmula 1.
 
@@ -52,6 +53,7 @@ Física	El juego utiliza mecánica clásica newtoniana.
 ### 🎮 Play Latest Version
 
 [https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+
 🧠 Origin
 F1-RaceTrack is a game that uses classic Newtonian mechanics to simulate a Formula 1 car race.
 
