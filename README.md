@@ -1,44 +1,98 @@
 ![Logo](Graficos/Logo_F1RaceTrack1.jpg)
-# F1-RaceTrack
-F1-RaceTrack is a game that uses classic (Newtonian) mechanics to simulate an F1 car race.
+🇪🇸 Español
+🎮 Jugar Última Versión
+[https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+🧠 Origen
+F1-RaceTrack es un juego que utiliza la mecánica clásica newtoniana para simular una carrera de coches de Fórmula 1.
 
-Martin Gardner, a science communicator famous for his mathematical puzzles, described the mathematical game RACETRACK in Scientific American in the early 1970s as a new game for the intellect (not luck) https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26 
+Martin Gardner, un comunicador científico famoso por sus acertijos matemáticos, describió el juego matemático RACETRACK en Scientific American a principios de los años 70 como un nuevo juego para el intelecto, no para la suerte.
 
-It was played on a sheet of graph paper with colored pencils.
+Referencia:
+Martin Gardner - Racetrack
 
-On a sheet of graph paper, a race track was drawn, and each player marked the initial location of their car at the starting line by drawing a point at the intersection of a grid.
-Each car has a horizontal speed and a vertical speed (at the start of the game, both speeds are zero). To simulate acceleration, braking, and direction changes, on each turn, each player can change their horizontal speed by a maximum of one grid per turn, and can similarly change their vertical speed by a maximum of one grid per turn. 
-The winner is the first player to safely cross the finish line. 
+📝 Juego Original
+El juego original se jugaba en una hoja de papel cuadriculado con lápices de colores.
 
-The game introduced concepts of speed, acceleration, and vector components.
+Sobre la cuadrícula se dibujaba una pista de carreras, y cada jugador marcaba la posición inicial de su coche en la línea de salida dibujando un punto en una intersección de la cuadrícula.
 
-A good description of the original game is available at:
-https://en.wikipedia.org/wiki/Racetrack_(game)
+Cada coche tiene:
 
-F1-RaceTrack is a computer game that simulates and recreates the Racetrack game, with Formula 1 cars.
+Velocidad horizontal.
+Velocidad vertical.
+Velocidad inicial 0 en ambas direcciones.
+En cada turno, cada jugador puede cambiar su velocidad horizontal como máximo en una unidad de cuadrícula, y también puede cambiar su velocidad vertical como máximo en una unidad de cuadrícula.
 
-For more detailed information, read the instruction files in PDF format.
+Esto simula:
 
-The launcher is the file: F1-RaceTrackEn.exe
+Aceleración.
+Frenado.
+Cambios de dirección.
+Movimiento vectorial.
+El ganador es el primer jugador que cruza de forma segura la línea de meta.
 
-You can play the latest version at: https://f1-racetrack-game.duckdns.org/F1_Racetrack.html
+Una buena descripción del juego original está disponible en:
+Wikipedia - Racetrack game
 
-F1-RaceTrack es un juego que utiliza la mecánica clásica (newtoniana) para simular una carrera de coches de F1.
+🏁 F1-RaceTrack
+F1-RaceTrack es un juego de ordenador que simula y recrea el juego clásico Racetrack con coches de Fórmula 1.
 
-Martin Gardner, un comunicador científico famoso por sus acertijos matemáticos, describió el juego matemático RACETRACK en Scientific American a principios de los años 70 como un nuevo juego para el intelecto (no para la suerte) https://link.springer.com/chapter/10.1007/978-3-642-13122-6_26
-
-Se jugaba en una hoja de papel cuadriculado con lápices de colores.
-
-En la hoja de papel cuadriculado, se dibujaba una pista de carreras, y cada jugador marcaba la ubicación inicial de su coche en la línea de salida dibujando un punto en la intersección de una cuadrícula. Cada coche tiene una velocidad horizontal y una velocidad vertical (al comienzo del juego, ambas velocidades son cero). Para simular la aceleración, frenado y cambios de dirección, en cada turno, cada jugador puede cambiar su velocidad horizontal por un máximo de una cuadrícula por turno, y de manera similar puede cambiar su velocidad vertical por un máximo de una cuadrícula por turno. El ganador es el primer jugador en cruzar con seguridad la línea de meta.
-
-El juego introdujo conceptos de velocidad, aceleración y componentes vectoriales.
-
-Una buena descripción del juego original está disponible en: https://en.wikipedia.org/wiki/Racetrack_(game)
-
-F1-RaceTrack es un juego para computadora que simula y recrea el juego Racetrack, con coches de Fórmula 1.
-
+📖 Instrucciones
 Para obtener información más detallada, lea los archivos de instrucciones en formato PDF.
 
-Para lanzar el juega usar el fichero: F1-RaceTrackEs.exe
+⚙️ Conceptos Principales
+Concepto	Descripción
+Velocidad	El coche conserva su movimiento de un turno al siguiente.
+Aceleración	La velocidad cambia gradualmente, una unidad por eje.
+Vectores	El movimiento horizontal y vertical se gestionan por separado.
+Estrategia	Ganar requiere planificar varios turnos por adelantado.
+Física	El juego utiliza mecánica clásica newtoniana.
 
-Se puede jugar la última versión en: https://f1-racetrack-game.duckdns.org/F1_Racetrack.html
+## 🇬🇧 English
+
+### 🎮 Play Latest Version
+
+[https://f1-racetrack-game.duckdns.org/F1_Racetrack.html](https://f1-racetrack-game.duckdns.org/F1_Racetrack.html)
+🧠 Origin
+F1-RaceTrack is a game that uses classic Newtonian mechanics to simulate a Formula 1 car race.
+
+Martin Gardner, a science communicator famous for his mathematical puzzles, described the mathematical game RACETRACK in Scientific American in the early 1970s as a new game for the intellect, not for luck.
+
+Reference:
+Martin Gardner - Racetrack
+
+📝 Original Game
+The original game was played on a sheet of graph paper with colored pencils.
+
+A race track was drawn on the grid, and each player marked the initial position of their car at the starting line by drawing a point at a grid intersection.
+
+Each car has:
+
+Horizontal speed.
+Vertical speed.
+Initial speed of 0 in both directions.
+On each turn, each player can change their horizontal speed by a maximum of one grid unit, and can also change their vertical speed by a maximum of one grid unit.
+
+This simulates:
+
+Acceleration.
+Braking.
+Direction changes.
+Vector movement.
+The winner is the first player to safely cross the finish line.
+
+A good description of the original game is available at:
+Wikipedia - Racetrack game
+
+🏁 F1-RaceTrack
+F1-RaceTrack is a computer game that simulates and recreates the classic Racetrack game with Formula 1 cars.
+
+📖 Instructions
+For more detailed information, read the instruction files in PDF format.
+
+⚙️ Core Concepts
+Concept	Description
+Speed	The car keeps its movement from turn to turn.
+Acceleration	Speed changes gradually, one unit per axis.
+Vectors	Horizontal and vertical movement are handled separately.
+Strategy	Winning requires planning several turns ahead.
+Physics	The game uses classic Newtonian mechanics.
